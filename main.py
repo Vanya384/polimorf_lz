@@ -10,4 +10,5 @@ def main():
     processor.divide_save()
 
 
-main()
+if __name__=="__main__":
+    main()
